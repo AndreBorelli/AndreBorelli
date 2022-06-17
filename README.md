@@ -1,5 +1,5 @@
 - 👋 Hi  , My name is André Borelli, I am from Brazil and with Portuguese nationality (European Union).
--  I have a degree in Information Technology Management from the "Pontíifícia Universidade Católica de Campinas - PUCC"
+-  I have a degree in Information Technology Management from the "Pontifícia Universidade Católica de Campinas - PUCC"
 - 👀 I’m interested in deepen as a front-end developer and later on become a Fullstack Developer.
 - 🌱 I’m currently learning React JS, and fascinated by the results that this library can generate, through the componentization of the elements, 
 - in addition to the dynamism that it allows.
